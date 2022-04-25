@@ -41,6 +41,6 @@ namespace solo_prep_2
                 Console.WriteLine("Please, take your studies more serious in the future!");
             }
 
-        }
+        } 
     }
 }        
