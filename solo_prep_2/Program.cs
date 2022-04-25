@@ -34,7 +34,7 @@ namespace solo_prep_2
             }
             if (grade >= 70)
             {
-                Console.WriteLine("Congratulation! You passed the class.");
+                Console.WriteLine("Congratulations! You passed the class.");
             }
             else
             {
